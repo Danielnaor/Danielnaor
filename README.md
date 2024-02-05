@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=YukinaMochizuki&theme=dark&show_icons=true">](https://github.com/anuraghazra/github-readme-stats)
+
+### 🌱 I’m currently learning:
+Computer netwroking 
+
+
+
 <!--
 **Danielnaor/Danielnaor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
