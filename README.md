@@ -3,7 +3,10 @@
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=danielnaor&theme=dark&show_icons=true">](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🌱 I’m currently learning:
-Computer netwroking 
+Computer networking 
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielnaor&langs_count=15)
 
 
 
