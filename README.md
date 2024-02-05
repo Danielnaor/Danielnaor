@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=YukinaMochizuki&theme=dark&show_icons=true">](https://github.com/anuraghazra/github-readme-stats)
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=danielnaor&theme=dark&show_icons=true">](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🌱 I’m currently learning:
 Computer netwroking 
