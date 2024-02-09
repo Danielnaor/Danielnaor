@@ -3,11 +3,17 @@
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=danielnaor&theme=dark&show_icons=true">](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🔭 I’m currently working on 
-- Capstone project for CS3 - [https://github.com/Danielnaor/Capstone_Project_Monopoly]
-- Crack the code riddles (v3 - new):
-  a. (v1)[https://github.com/Danielnaor/CrackTheCode]
-  b. (v2)[https://github.com/Danielnaor/CrackTheCodeV2]
-  c. (v3)[https://github.com/Danielnaor/CrackTheCodeV3]
+<ul>
+  <li>Capstone project for CS3 - <a href="https://github.com/Danielnaor/Capstone_Project_Monopoly">Capstone Project Monopoly</a></li>
+  <li>Crack the code riddles (v3 - new):
+    <ul>
+      <li>(v1) <a href="https://github.com/Danielnaor/CrackTheCode">CrackTheCode</a></li>
+      <li>(v2) <a href="https://github.com/Danielnaor/CrackTheCodeV2">CrackTheCodeV2</a></li>
+      <li>(v3) <a href="https://github.com/Danielnaor/CrackTheCodeV3">CrackTheCodeV3</a></li>
+    </ul>
+  </li>
+</ul>
+
 
 ### 🌱 I’m currently learning:
 Computer networking 
