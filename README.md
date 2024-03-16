@@ -22,6 +22,9 @@ Computer networking
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielnaor&langs_count=15)
 
 
+<!-- add links to social-->
+
+
 
 <!--
 **Danielnaor/Danielnaor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
