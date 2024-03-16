@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=danielnaor&theme=dark&show_icons=true">](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielnaor&langs_count=15)
+
 
 ### 🔭 I’m currently working on 
 <ul>
@@ -19,7 +18,8 @@
 ### 🌱 I’m currently learning:
 Computer networking 
 
-
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=danielnaor&theme=dark&show_icons=true">](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielnaor&langs_count=15)
 
 
 
