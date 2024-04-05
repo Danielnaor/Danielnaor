@@ -2,7 +2,7 @@
 
 
 
-### 🔭 I’m currently working on 
+<!--### 🔭 I’m currently working on 
 <ul>
   <li>Capstone project for CS3 - <a href="https://github.com/Danielnaor/Capstone_Project_Monopoly">Capstone Project Monopoly</a></li>
   <li>Crack the code riddles (v3 - new):
@@ -12,7 +12,9 @@
       <li>(v3) <a href="https://github.com/Danielnaor/CrackTheCodeV3">CrackTheCodeV3</a></li>
     </ul>
   </li>
-</ul>
+</ul>--->
+
+
 
 
 ### 🌱 I’m currently learning:
